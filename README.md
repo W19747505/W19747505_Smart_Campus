@@ -31,3 +31,9 @@ Q1) HTTP 422 is considered more accurate because 404 is used when a requested re
 Q2) A risk associated with exposing internal stack traces is that the system details inside, such as class names and file paths, could very easily be exploited by attackers.
 
 Q3) It is better to use filters because they make the code cleaner, which makes it easier to keep all the logging consistent.
+
+
+
+
+Video demonstration link:
+https://westminster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5afd6f91-7cbe-4208-a829-b436007871dd
